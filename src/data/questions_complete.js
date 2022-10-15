@@ -1,6 +1,6 @@
 const data = [
     {
-      category: "HTML",
+      category: "RESERVATORIO",
       questions: [
         {
           question: "Qual tag cria um parágrafo?",
@@ -32,7 +32,7 @@ const data = [
       ],
     },
     {
-      category: "CSS",
+      category: "ENGENHARIA DE POCO",
       questions: [
         {
           question: "Qual regra altera a cor de um elemento?",
@@ -53,7 +53,7 @@ const data = [
       ],
     },
     {
-      category: "JavaScript",
+      category: "GEOPOLITICA",
       questions: [
         {
           question: "O que é Vanilla JavaScript?",
