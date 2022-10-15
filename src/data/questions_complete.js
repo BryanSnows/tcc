@@ -1,6 +1,6 @@
 const data = [
     {
-      category: "RESERVATORIO",
+      category: "GEOLOGIA",
       questions: [
         {
           question: "Qual tag cria um parágrafo?",
@@ -32,7 +32,7 @@ const data = [
       ],
     },
     {
-      category: "ENGENHARIA DE POCO",
+      category: "POCO",
       questions: [
         {
           question: "Qual regra altera a cor de um elemento?",
