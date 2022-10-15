@@ -1,5 +1,5 @@
 import React from 'react';
-import Quiz from '../img/welcome.png';
+import Quiz from '../img/quiz.svg';
 import './Welcome.css';
 
 export const Welcome = () => {
