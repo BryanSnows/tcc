@@ -12,5 +12,6 @@ async function bootstrap() {
 
   new SwaggerService().init(app);
   await app.listen(process.env.APP_PORT);
+  console.log(process.env.APP_PORT)
 }
 bootstrap();

@@ -1,5 +1,5 @@
 import { Module } from '@nestjs/common';
-import { ConfigModule } from '@nestjs/config';
+import { ConfigModule } from './config/environments/config.module';
 import { AppService } from './app.service';
 import { DatabaseModule } from './config/database/database.module';
 import { SwaggerModule } from './config/swagger/swagger.module';
