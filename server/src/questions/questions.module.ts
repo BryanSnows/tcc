@@ -6,7 +6,7 @@ import { QuestionEntity } from './entities/question.entity';
 
 @Module({
   imports: [
-    TypeOrmModule.forFeature([]),
+    TypeOrmModule.forFeature([QuestionEntity]),
   ],
   controllers: [QuestionsController],
   providers: [QuestionsService],

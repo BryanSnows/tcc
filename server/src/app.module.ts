@@ -9,7 +9,7 @@ import { QuestionsModule } from './questions/questions.module';
   imports: [QuestionsModule,
     SwaggerModule,
     ConfigModule,
-    
+    DatabaseModule
   ],
   providers: [AppService],
 })
